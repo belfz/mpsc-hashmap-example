@@ -1,0 +1,6 @@
+[package]
+name = "mpsc-hashmap"
+version = "0.1.0"
+authors = ["belfz <marcinbar1@gmail.com>"]
+
+[dependencies]
